@@ -11,6 +11,6 @@ server will be ready @127.0.0.1:5000
 4) If u want to see the live app working 
 
 go for the url:
-      http://hkchat.mybluemix.net
+      http://talkout-1.au-syd.mybluemix.net
 
 
